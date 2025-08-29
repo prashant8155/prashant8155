@@ -1,4 +1,4 @@
-![logo](https://github.com/prashant8155/prashant8155/blob/main/Screenshot%202024-04-19%20184252.png)
+
 <h1 align="center">Hi 👋, I'm Prashant pandey</h1>
 
 
